@@ -34,5 +34,6 @@ $ ./eos_convert.py symbol decode --hex 0x00000000534f4504
 4,EOS
 $ ./eos_convert.py symbol decode --hex --little 0x04454f5300000000
 4,EOS
-
 ```
+
+C++ demo: [https://ideone.com/OLNVKJ](https://ideone.com/OLNVKJ)
